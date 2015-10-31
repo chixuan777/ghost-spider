@@ -1,0 +1,4 @@
+this is a test
+mkdir spider-ghost
+cd spider-ghost
+git init
